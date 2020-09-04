@@ -3,8 +3,9 @@
 ### Connect with me:
 
 [<img align="left" alt="mpudota907 | Twitter" width="80px" src="https://img.shields.io/twitter/url?label=%40Mpudota&style=social&url=https%3A%2F%2Ftwitter.com%2FMPudota" />][twitter]
-[<img align="left" alt="mpudota907 | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="mpudota907 | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="mpudota907 | LinkedIn" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="mpudota907 | Instagram" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
 
 <br />
 
