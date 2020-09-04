@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | Twitter" width="80px" src="https://img.shields.io/twitter/url?label=%40Mpudota&style=social&url=https%3A%2F%2Ftwitter.com%2FMPudota" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" | Twitter" width="80px" src="https://img.shields.io/twitter/url?label=%40Mpudota&style=social&url=https%3A%2F%2Ftwitter.com%2FMPudota" />][twitter]
+[<img align="left" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -35,3 +35,5 @@ Here are some ideas to get you started:
 [twitter]: https://twitter.com/MPudota
 [instagram]: https://www.instagram.com/manoharpudota/
 [linkedin]: https://www.linkedin.com/in/manohar-pudota-b3343542/
+
+[<img source "https://github-readme-stats.vercel.app/api?username=mpudota907&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">]
