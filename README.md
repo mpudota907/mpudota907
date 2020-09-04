@@ -1,4 +1,4 @@
-### Hi there, I'm Manohar 👋
+### Hi there, I'm Manohar <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <!--
 **mpudota907/mpudota907** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,16 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on a Secret project.
-- 🌱 I’m currently learning HTML and CSS.
-- 👯 I’m looking to collaborate with other content creators.
-- 🥅 2020 Goals: Contribute more to Open Source projects.
-- ⚡ Fun fact: I love to travel 
-- 💬 Ask me about any documentation requirements.
+- 🔭 I’m currently working on a Secret project 😉
+- 🌱 I’m currently learning HTML and CSS
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2020 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to travel ⛰️ 🏍️ 
+- 💬 Ask me about any documentation requirements
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | Twitter" width="100px" src="https://img.shields.io/twitter/url?label=%40Mpudota&style=social&url=https%3A%2F%2Ftwitter.com%2FMPudota" />][twitter]
+[<img align="left" alt="codeSTACKr | Twitter" width="80px" src="https://img.shields.io/twitter/url?label=%40Mpudota&style=social&url=https%3A%2F%2Ftwitter.com%2FMPudota" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
