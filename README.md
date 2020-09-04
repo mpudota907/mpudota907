@@ -37,6 +37,5 @@ Here are some ideas to get you started:
 [linkedin]: https://www.linkedin.com/in/manohar-pudota-b3343542/
 
 <p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpudota907&theme=radical&hide_langs_below=1&layout=compact" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=mpudota907&show_icons=true&theme=radical&line_height=21" alt="Ohidur's github stats"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=mpudota907&show_icons=true&theme=radical&line_height=15" alt="Ohidur's github stats"/>
 </p>
