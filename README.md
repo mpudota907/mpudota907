@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | Twitter" width="25px" src="https://simpleicons.org/?q=twitt" />][twitter]
+[<img align="left" alt="codeSTACKr | Twitter" width="25px" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FMPudota" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
