@@ -36,4 +36,4 @@ Here are some ideas to get you started:
 [instagram]: https://www.instagram.com/manoharpudota/
 [linkedin]: https://www.linkedin.com/in/manohar-pudota-b3343542/
 
-[<img align="left" alt="mpudota907" | src "https://github-readme-stats.vercel.app/api?username=mpudota907&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />]
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=mpudota907&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
